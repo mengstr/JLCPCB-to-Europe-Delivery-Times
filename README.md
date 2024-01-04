@@ -1,5 +1,20 @@
 # JLCPCB-to-Europe-Delivery-Times
-Keeps track of the actual delivery times from JLCPCB using the cheap &amp; slow shipping option
+
+## A list of actual delivery times from JLCPCB to Sweden using the cheap &amp; slow shipping option.
+
+When not in a hurry the cheapest shipping option might be a good alternative to the courier freights that usually are at $20 ad upwards. The slow shipping says 12 to 16 business days whish sounds like a lot. IRL shipping to Europe is much faster as the table below shows. Please note that the times are with the weekends included.
+
+Using this shipping option you can get a pack of five 100x100mm PCBs delivered (with the customs and taxes pre-paid so there are no exta fees to pay) for less than $4.50 / EUR 4.10.
+
+```
+Merchandise Total: $2.00
+Shipping Charge: $1.53
+Customs duties & taxes: $0.89
+Order Total: $4.42
+```
+
+
+
 
 | BOARD           | SUBMITTED | SHIPPED   | RECEIVED  | TOTAL<br>TIME | SHIPPING<br>TIME |
 | --------------- | --------- | --------- | --------- | -------: | -------: |
